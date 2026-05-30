@@ -47,6 +47,7 @@ customer-segmentation-tableau/
 │   └──Chart 6.png
 │   └──Chart 7.png
 │   └──Dashboard.png
+|
 ├── tableau/
 │   └── Customer Segmentation & Buying Behavior Insights.twbx
 │
